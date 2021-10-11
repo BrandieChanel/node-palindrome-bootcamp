@@ -16,7 +16,7 @@
 
 Example:
 ```
-I completed the challenge: 5
+I completed the challenge: 4
 I feel good about my code: 4
-I'm not sure if my constructors are setup cleanly...
+Palindrome functions - node side needs work
 ```
